@@ -2,46 +2,46 @@
 <img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+# Portfolio / Lebenslauf
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+Erstellt mit Next.js, [shadcn/ui](https://ui.shadcn.com/) und [magic ui](https://magicui.design/), deployed auf Vercel.
 
 # Features
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+- Einrichtung dauert nur wenige Minuten durch Bearbeiten der [Konfigurationsdatei](./src/data/resume.tsx)
+- Erstellt mit Next.js 14, React, TypeScript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
+- Beinhaltet einen Blog
+- Responsive für verschiedene Geräte
+- Optimiert für Next.js und Vercel
 
-# Getting Started Locally
+# Lokale Einrichtung
 
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
-
-2. Move to the cloned directory
+1. Klone dieses Repository auf deinen lokalen Rechner:
 
    ```bash
-   cd portfolio
+   git clone https://github.com/emilianbuza/Lebenslauf
    ```
 
-3. Install dependencies:
+2. Wechsle in das geklonte Verzeichnis:
+
+   ```bash
+   cd Lebenslauf
+   ```
+
+3. Installiere die Abhängigkeiten:
 
    ```bash
    pnpm install
    ```
 
-4. Start the local Server:
+4. Starte den lokalen Server:
 
    ```bash
    pnpm dev
    ```
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+5. Öffne die [Konfigurationsdatei](./src/data/resume.tsx) und nimm Änderungen vor
 
-# License
+# Lizenz
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+Lizenziert unter der [MIT-Lizenz](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
